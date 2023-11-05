@@ -505,6 +505,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1059488826
 GameObject:
   m_ObjectHideFlags: 0
@@ -610,6 +611,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 726d3ed (g cube)
 --- !u!1 &1088446152
 GameObject:
   m_ObjectHideFlags: 0
@@ -972,6 +975,7 @@ SceneRoots:
 <<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 388269012}
+<<<<<<< HEAD
   - {fileID: 1059488830}
 =======
 >>>>>>> parent of 7c48c60 (another green cube)
@@ -979,3 +983,5 @@ SceneRoots:
 >>>>>>> parent of 7cb0018 (green cube)
 =======
 >>>>>>> parent of 7c48c60 (another green cube)
+=======
+>>>>>>> parent of 726d3ed (g cube)
