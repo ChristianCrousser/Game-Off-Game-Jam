@@ -744,7 +744,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &2141704108
 --- !u!1 &2092803551
 GameObject:
@@ -867,8 +866,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of 89e98a8 (cube 3)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -877,10 +874,7 @@ SceneRoots:
   - {fileID: 400019712}
   - {fileID: 60785646}
   - {fileID: 1296023381}
-<<<<<<< HEAD
   - {fileID: 1263190419}
   - {fileID: 1498803746}
   - {fileID: 2141704112}
   - {fileID: 2092803555}
-=======
->>>>>>> parent of 89e98a8 (cube 3)
