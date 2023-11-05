@@ -299,7 +299,11 @@ Transform:
   m_GameObject: {fileID: 70288951}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 1, z: -10}
+=======
+  m_LocalPosition: {x: 0, y: 4.02, z: -10}
+>>>>>>> parent of 7c48c60 (another green cube)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1206,6 +1210,7 @@ SceneRoots:
   - {fileID: 1088446156}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 388269012}
 <<<<<<< HEAD
   - {fileID: 1059488830}
@@ -1217,3 +1222,5 @@ SceneRoots:
 >>>>>>> parent of 7c48c60 (another green cube)
 =======
 >>>>>>> parent of 726d3ed (g cube)
+=======
+>>>>>>> parent of 7c48c60 (another green cube)
